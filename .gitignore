@@ -1,0 +1,9 @@
+.DS_Store
+*.swp
+.idea
+*.iml
+.coverage
+bin
+vendor
+.envrc
+cache
