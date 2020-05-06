@@ -2,6 +2,8 @@
 
 This is an experimental plugin for Neovim to automate the typical tasks in competitive programming.
 
+![procon_nvim](https://user-images.githubusercontent.com/97572/81148811-f0cd6080-8fb7-11ea-88ed-50404e628d54.gif)
+
 ## Supported websites are
 - [AtCoder](https://atcoder.jp/)
 
